@@ -1,0 +1,17 @@
+pyvenv.cfg
+lib/
+bin/
+include/
+share/
+.DS_Store
+
+__pycache__/
+
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+
+.gitignore
